@@ -43,7 +43,5 @@ Our meticulous exploration of the dataset involved comprehensive feature review 
 
 Additionally, our outlier detection efforts revealed a mix of precision and recall challenges among various methodologies employed. Ensemble techniques effectively addressed class imbalance issues, while neural network models showcased promising potential.
 
-The application of pre-trained models, like BERT, for fraud detection demonstrated promising results, emphasizing the potential of leveraging sophisticated pre-existing models.
-
 These findings underscore the significance of fraud detection and highlight the critical role diverse methodologies play in addressing fraudulent activities within complex and imbalanced datasets.
 
